@@ -10,13 +10,13 @@ Now that I am past of Foundations, I added the svg, as I have used it a couple o
 Technical Implementation
 1. Semantic HTML Structure
 
-    <header>: Contains site titles (<h1>), explosive subtitles, and original Allrecipes source attribution links.
+    The header,  contains site titles h1, explosive subtitles, and original Allrecipes source attribution links.
 
-    <main> & <section>: Encloses primary content lists and detail reviews.
+    main & section: Encloses primary content lists and detail reviews.
 
-    <article>: Isolates single-subject recipe commentary on detail pages.
+    article: Isolates single-subject recipe commentary on detail pages.
 
-    <nav>: Encapsulates internal back-links for accessibility and clean document flow across subpages.
+    nav: Encapsulates internal back-links for accessibility and clean document flow across subpages.
 
 2. Stylesheet Design System (styles.css)
 
